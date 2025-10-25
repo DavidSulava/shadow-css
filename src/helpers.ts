@@ -66,7 +66,7 @@ export const editorOptions: monaco.editor.IStandaloneEditorConstructionOptions =
     showFoldingControls: 'mouseover',
     smoothScrolling: false,
     suggestOnTriggerCharacters: true,
-    wordBasedSuggestions: true,
+    wordBasedSuggestions: 'allDocuments',
     wordSeparators: '~!@#$%^&*()-=+[{]}|;:\'",.<>/?',
     wordWrap: 'off',
     wordWrapBreakAfterCharacters: '\t})]?|&,;',
