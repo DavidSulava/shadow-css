@@ -2,7 +2,7 @@
 A simple shadow generator app build on React 18.
 
 Links:
-- Live demo site 👉 https://shadow-css.onrender.com/
+- Live demo site 👉 https://davidsulava.github.io/shadow-css/
 
 
 Links:
